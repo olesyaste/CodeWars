@@ -1,1 +1,2 @@
 # CodeWars
+# codewars-kata
